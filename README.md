@@ -2,8 +2,6 @@
 
 A modern React 19 application that demonstrates ES5, ES6, and ES7 JavaScript features. This project serves as both a learning tool and a reference for JavaScript's evolution.
 
-![React 19 JavaScript Features Demo](https://placeholder.svg?height=400&width=800)
-
 ## Overview
 
 This application showcases various JavaScript features across different ECMAScript versions in an interactive way. It's built using React 19 with Next.js, following the current recommendations from the React team after the deprecation of Create React App [^1][^2].
