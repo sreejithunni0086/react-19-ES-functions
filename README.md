@@ -36,4 +36,4 @@ This application showcases various JavaScript features across different ECMAScri
 1. Clone the repository:
    ```bash
    git clone https://github.com/sreejithunni0086/react-19-ES-functions.git
-   cd react19-js-features
+   cd react-19-ES-functions
