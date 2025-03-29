@@ -31,9 +31,4 @@ This application showcases various JavaScript features across different ECMAScri
 - Array.prototype.includes()
 - Exponentiation Operator (**)
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sreejithunni0086/react-19-ES-functions.git
-   cd react-19-ES-functions
